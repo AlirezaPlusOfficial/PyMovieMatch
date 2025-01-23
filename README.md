@@ -26,7 +26,7 @@ now download `MovieLens Dataset` which is needed in this project, you can downlo
 [`MovieLens 1M`](https://files.grouplens.org/datasets/movielens/ml-1m.zip)
 [`MovieLens 10M`](https://files.grouplens.org/datasets/movielens/ml-10m.zip)
 [`MovieLens 20M`](https://files.grouplens.org/datasets/movielens/ml-20m.zip)
-[`MovieLens Latest`](https://files.grouplens.org/datasets/movielens/ml-latest.zip)
+[`MovieLens Latest (LARGEST)`](https://files.grouplens.org/datasets/movielens/ml-latest.zip)
 <br>
 <br>
 put `movies.csv` and `ratings.csv` into the same directory where main.py is.
